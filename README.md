@@ -12,7 +12,7 @@
 
 [![ealgar-c's 42 stats](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
-## progression:
+progression:
 | rank  | proyect | score|
 | ---   | --- | --- |
 |1️⃣ |get_next_line | [![ealgar-c's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929)](https://github.com/JaeSeoKim/badge42) |
