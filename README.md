@@ -3,8 +3,11 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,arduino,bash" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,bash)](https://skillicons.dev)
-
+<p align="center">
+  <a href="[https://skillicons.dev](https://wakatime.com/@a0e860d2-9914-4fed-8143-b9fd5cf5e6c1)">
+    <img src="[https://skillicons.dev/icons?i=c,cpp,arduino,bash](https://wakatime.com/badge/user/a0e860d2-9914-4fed-8143-b9fd5cf5e6c1.svg))" />
+  </a>
+</p>
 [![wakatime](https://wakatime.com/badge/user/a0e860d2-9914-4fed-8143-b9fd5cf5e6c1.svg)](https://wakatime.com/@a0e860d2-9914-4fed-8143-b9fd5cf5e6c1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealgar-c&show_icons=true&theme=dracula)
