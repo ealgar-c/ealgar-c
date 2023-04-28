@@ -1,4 +1,9 @@
-[![My Skills](https://skillicons.dev/icons?i=c,arduino,cpp,bash)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,bash)](https://skillicons.dev)
 
 [![wakatime](https://wakatime.com/badge/user/a0e860d2-9914-4fed-8143-b9fd5cf5e6c1.svg)](https://wakatime.com/@a0e860d2-9914-4fed-8143-b9fd5cf5e6c1)
 
