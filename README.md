@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/a0e860d2-9914-4fed-8143-b9fd5cf5e6c1.svg)](https://wakatime.com/@a0e860d2-9914-4fed-8143-b9fd5cf5e6c1)
+
 ### Here is my 42 profile:
 
 [![ealgar-c's 42 stats](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
