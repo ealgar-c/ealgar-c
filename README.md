@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=c,arduino,cpp,bash)](https://skillicons.dev)
+
 [![wakatime](https://wakatime.com/badge/user/a0e860d2-9914-4fed-8143-b9fd5cf5e6c1.svg)](https://wakatime.com/@a0e860d2-9914-4fed-8143-b9fd5cf5e6c1)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ealgar-c&show_icons=true&theme=dracula)
