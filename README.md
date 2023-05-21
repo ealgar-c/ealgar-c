@@ -15,6 +15,7 @@
 progression:
 | rank  | proyect | score|
 | ---   | --- | --- |
+| ---   | minitalk  | [![ealgar-c's 42 minitalk Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454)](https://github.com/JaeSeoKim/badge42) |
 |1️⃣ |get_next_line | [![ealgar-c's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929)](https://github.com/JaeSeoKim/badge42) |
 | 1️⃣   |printf| [![ealgar-c's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974)](https://github.com/JaeSeoKim/badge42) |
 |1️⃣|Born2beroot| [![ealgar-c's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042)](https://github.com/JaeSeoKim/badge42) |
