@@ -15,17 +15,17 @@
 progression:
 <!-- TABLA PROYECTOS RANK 2 -->
 <table>
-  <thead>
+  <tbody>
     <tr>
-      <th>RANK</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
+      <td>RANK</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
     </tr>
   </thead>
   <tbody>
@@ -41,17 +41,17 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
     </tr>
   </tbody>
-  <thead>
+  <tbody>
     <tr>
-      <th>RANK</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
+      <td>RANK</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
       <td>1️⃣</td>
@@ -63,13 +63,13 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></a></td>
     </tr>
   </tbody>
-    <thead>
+    <tbody>
     <tr>
-      <th>RANK</th>
-      <th>PROYECT</th>
-      <th>SCORE</th>
+      <td>RANK</td>
+      <td>PROYECT</td>
+      <td>SCORE</td>
     </tr>
-  </thead>
+  </tbody>
   <tbody>
     <tr>
       <td>0️⃣</td>
