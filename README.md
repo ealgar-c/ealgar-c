@@ -56,7 +56,7 @@ progression:
     <tr>
       <td>0️⃣</td>
       <td><a href="https://github.com/ealgar-c/libft"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/></a></td>
-      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" />/td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" /></td>
     </tr>
   </tbody>
 </table>
