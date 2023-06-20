@@ -13,8 +13,6 @@
 [![ealgar-c's 42 stats](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
 progression:
-
-||| [![ealgar-c's 42 Libft Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343)](https://github.com/JaeSeoKim/badge42) |
 <!-- TABLA PROYECTOS RANK 2 -->
 <table>
   <thead>
@@ -26,11 +24,15 @@ progression:
       <th>SCORE</th>
       <th>PROYECT</th>
       <th>SCORE</th>
+      <th>PROYECT</th>
+      <th>SCORE</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>2️⃣</td>
+      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></a></td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> </td>
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098" alt="ealgar-c's 42 so_long Score" /></a></td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/></td>
