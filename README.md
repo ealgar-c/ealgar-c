@@ -41,10 +41,6 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
     </tr>
   </tbody>
-</table>
-
-<!-- TABLA PROYECTOS RANK 1 -->
-<table width="100%">
   <thead>
     <tr>
       <th>RANK</th>
@@ -67,11 +63,7 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></a></td>
     </tr>
   </tbody>
-</table>
-
-<!-- TABLA PROYECTOS RANK 0 -->
-<table width="100%">
-  <thead>
+    <thead>
     <tr>
       <th>RANK</th>
       <th>PROYECT</th>
@@ -85,6 +77,16 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" /></a></td>
     </tr>
   </tbody>
+</table>
+
+<!-- TABLA PROYECTOS RANK 1 -->
+<table width="100%">
+  
+</table>
+
+<!-- TABLA PROYECTOS RANK 0 -->
+<table width="100%">
+
 </table>
 
 
