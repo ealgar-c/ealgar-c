@@ -15,6 +15,7 @@
 progression:
 <!-- TABLA PROYECTOS RANK 2 -->
 <table>
+  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
@@ -45,6 +46,7 @@ progression:
 
 <!-- TABLA PROYECTOS RANK 1 -->
 <table>
+  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
@@ -71,6 +73,7 @@ progression:
 
 <!-- TABLA PROYECTOS RANK 0 -->
 <table>
+  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
