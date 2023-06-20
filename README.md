@@ -17,15 +17,15 @@ progression:
 <table>
   <tbody>
     <tr>
-      <td>RANK</td>
-      <td>PROYECT</td>
-      <td>SCORE</td>
-      <td>PROYECT</td>
-      <td>SCORE</td>
-      <td>PROYECT</td>
-      <td>SCORE</td>
-      <td>PROYECT</td>
-      <td>SCORE</td>
+      <td align="center">RANK</td>
+      <td align="center">PROYECT</td>
+      <td align="center">SCORE</td>
+      <td align="center">PROYECT</td>
+      <td align="center">SCORE</td>
+      <td align="center">PROYECT</td>
+      <td align="center">SCORE</td>
+      <td align="center">PROYECT</td>
+      <td align="center">SCORE</td>
     </tr>
   </thead>
   <tbody>
