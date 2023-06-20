@@ -16,7 +16,7 @@ progression:
 
 <style>
   table {
-    width: 300px
+    width: 300px;
   }
 </style>
 
