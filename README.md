@@ -44,7 +44,7 @@ progression:
 </table>
 
 <!-- TABLA PROYECTOS RANK 1 -->
-<table width: 500px>
+<table width="100%">
   <thead>
     <tr>
       <th>RANK</th>
@@ -70,7 +70,7 @@ progression:
 </table>
 
 <!-- TABLA PROYECTOS RANK 0 -->
-<table width: 500px>
+<table width="100%">
   <thead>
     <tr>
       <th>RANK</th>
