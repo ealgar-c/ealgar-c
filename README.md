@@ -29,7 +29,7 @@ progression:
   </thead>
   <tbody>
     <tr>
-      <td><a width="100">2️⃣</a></td>
+      <td>2️⃣</td>
       <td><a href="https://github.com/ealgar-c/push_swap"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></a></td>
       <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></td>
       <td><a href="https://github.com/ealgar-c/SoLong"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/></a></td>
