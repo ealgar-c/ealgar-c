@@ -40,7 +40,7 @@ progression:
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/></td>
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454" alt="ealgar-c's 42 minitalk Score" /></a></td>
       <td>Exam rank 02</td>
-      <td>[<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
