@@ -13,9 +13,13 @@
 [![ealgar-c's 42 stats](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
 progression:
+<style>
+  table {
+    width: 100%; /* or specify a fixed width, e.g., 500px */
+  }
+</style>
 <!-- TABLA PROYECTOS RANK 2 -->
 <table>
-  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
@@ -46,7 +50,6 @@ progression:
 
 <!-- TABLA PROYECTOS RANK 1 -->
 <table>
-  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
@@ -73,7 +76,6 @@ progression:
 
 <!-- TABLA PROYECTOS RANK 0 -->
 <table>
-  width: 100%;
   <thead>
     <tr>
       <th>RANK</th>
