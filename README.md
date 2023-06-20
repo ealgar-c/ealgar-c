@@ -13,7 +13,7 @@
 [![ealgar-c's 42 stats](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
 progression:
-
+| rank| proyect | score | proyect | score | proyect | score |
 | ---   | --- | --- | ---|| ---|| ---|| ---|
 |2️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> | [![ealgar-c's 42 so_long Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098)](https://github.com/JaeSeoKim/badge42)|2️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/>| [![ealgar-c's 42 minitalk Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454)](https://github.com/JaeSeoKim/badge42)|2️⃣|Exam rank 02| [![ealgar-c's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920)](https://github.com/JaeSeoKim/badge42)  |
 
