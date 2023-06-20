@@ -14,7 +14,7 @@
 
 progression:
 <!-- TABLA PROYECTOS RANK 2 -->
-<div width=100%">
+<div width=100%" display="flex">
 <table width="100%">
   <thead>
     <tr>
