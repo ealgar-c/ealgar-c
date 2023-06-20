@@ -14,7 +14,6 @@
 
 progression:
 <!-- TABLA PROYECTOS RANK 2 -->
-<div width=100%" display="flex">
 <table width="100%">
   <thead>
     <tr>
@@ -87,7 +86,6 @@ progression:
     </tr>
   </tbody>
 </table>
-</div>
 
 
 ### 42 piscine profile:
