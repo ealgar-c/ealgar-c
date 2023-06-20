@@ -14,11 +14,7 @@
 
 progression:
 
-
-
-|1️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp"/>| [![ealgar-c's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042)](https://github.com/JaeSeoKim/badge42) |1️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/>| [![ealgar-c's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974)](https://github.com/JaeSeoKim/badge42) |1️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp"/>| [![ealgar-c's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929)](https://github.com/JaeSeoKim/badge42) |
-
-|0️⃣|<img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/>| [![ealgar-c's 42 Libft Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343)](https://github.com/JaeSeoKim/badge42) |
+||| [![ealgar-c's 42 Libft Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343)](https://github.com/JaeSeoKim/badge42) |
 <!-- TABLA PROYECTOS RANK 2 -->
 <table>
   <thead>
@@ -41,6 +37,50 @@ progression:
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454" alt="ealgar-c's 42 minitalk Score" /></a></td>
       <td>Exam rank 02</td>
       <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- TABLA PROYECTOS RANK 1 -->
+<table>
+  <thead>
+    <tr>
+      <th>RANK</th>
+      <th>PROYECT</th>
+      <th>SCORE</th>
+      <th>PROYECT</th>
+      <th>SCORE</th>
+      <th>PROYECT</th>
+      <th>SCORE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1️⃣</td>
+      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp"/></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042" alt="ealgar-c's 42 Born2beroot Score" /></a></td>
+      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974" alt="ealgar-c's 42 ft_printf Score" /></a></td>
+      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp"/></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- TABLA PROYECTOS RANK 0 -->
+<table>
+  <thead>
+    <tr>
+      <th>RANK</th>
+      <th>PROYECT</th>
+      <th>SCORE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0️⃣</td>
+      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/></td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" /></a></td>
     </tr>
   </tbody>
 </table>
