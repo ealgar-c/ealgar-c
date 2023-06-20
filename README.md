@@ -31,14 +31,14 @@ progression:
   <tbody>
     <tr>
       <td>2️⃣</td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></a></td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> </td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098" alt="ealgar-c's 42 so_long Score" /></a></td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454" alt="ealgar-c's 42 minitalk Score" /></a></td>
-      <td>Exam rank 02</td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
+      <td><a href="https://github.com/ealgar-c/push_swap"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></td>
+      <td><a href="https://github.com/ealgar-c/SoLong"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098" alt="ealgar-c's 42 so_long Score" /></td>
+      <td><a href="https://github.com/ealgar-c/minitalk"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454" alt="ealgar-c's 42 minitalk Score" /></td>
+      <td><a href="https://github.com/ealgar-c/exam_rank-02">Exam rank 02</a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></td>
     </tr>
   </tbody>
   <tbody>
@@ -56,11 +56,11 @@ progression:
     <tr>
       <td>1️⃣</td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042" alt="ealgar-c's 42 Born2beroot Score" /></a></td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974" alt="ealgar-c's 42 ft_printf Score" /></a></td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042" alt="ealgar-c's 42 Born2beroot Score" /></td>
+      <td><a href="https://github.com/ealgar-c/printf"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974" alt="ealgar-c's 42 ft_printf Score" /></td>
+      <td><a href="https://github.com/ealgar-c/get_next_line"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></td>
     </tr>
   </tbody>
     <tbody>
@@ -73,8 +73,8 @@ progression:
   <tbody>
     <tr>
       <td>0️⃣</td>
-      <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/></td>
-      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" /></a></td>
+      <td><a href="https://github.com/ealgar-c/libft"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp"/></a></td>
+      <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3066343" alt="ealgar-c's 42 Libft Score" />/td>
     </tr>
   </tbody>
 </table>
