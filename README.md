@@ -36,11 +36,11 @@ progression:
     <tr>
       <td>2️⃣</td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long.webp"/> </td>
-      <td> [![ealgar-c's 42 so_long Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098)](https://github.com/JaeSeoKim/badge42) </td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3100098" alt="ealgar-c's 42 so_long Score" /></a></td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp"/></td>
-      <td>[![ealgar-c's 42 minitalk Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454)](https://github.com/JaeSeoKim/badge42)</td>
+      <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3089454" alt="ealgar-c's 42 minitalk Score" /></a></td>
       <td>Exam rank 02</td>
-      <td>[![ealgar-c's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920)](https://github.com/JaeSeoKim/badge42)</td>
+      <td>[<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3087920" alt="ealgar-c's 42 Exam Rank 02 Score" /></a></td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
