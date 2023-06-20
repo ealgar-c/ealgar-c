@@ -43,17 +43,6 @@ progression:
   </tbody>
   <tbody>
     <tr>
-      <td align="center">RANK</td>
-      <td align="center">PROYECT</td>
-      <td align="center">SCORE</td>
-      <td align="center">PROYECT</td>
-      <td align="center">SCORE</td>
-      <td align="center">PROYECT</td>
-      <td align="center">SCORE</td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
       <td>1️⃣</td>
       <td><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot.webp"/></td>
       <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3073042" alt="ealgar-c's 42 Born2beroot Score" /></td>
@@ -61,13 +50,6 @@ progression:
       <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3075974" alt="ealgar-c's 42 ft_printf Score" /></td>
       <td><a href="https://github.com/ealgar-c/get_next_line"><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line.webp"/></a></td>
       <td><img src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3078929" alt="ealgar-c's 42 get_next_line Score" /></td>
-    </tr>
-  </tbody>
-    <tbody>
-    <tr>
-      <td align="center">RANK</td>
-      <td align="center">PROYECT</td>
-      <td align="center">SCORE</td>
     </tr>
   </tbody>
   <tbody>
