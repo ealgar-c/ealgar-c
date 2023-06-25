@@ -1,4 +1,4 @@
-<h1>👋 Hey there! I´m Enrique!</h1>
+<h1>👋 Hey there! I'm Enrique!</h1>
 
 Currently, I´m a student of <a href="https://www.42malaga.com/"> 42 Málaga</a>. I enjoy everything related to new technologies and programming.
 
