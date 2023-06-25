@@ -43,11 +43,11 @@ Currently, I´m a student of <a href="https://www.42malaga.com/"> 42 Málaga</a>
     <tr>
       <td>3️⃣</td>
       <td><a><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers.webp"/></a></td>
-      <td><img width="200" src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></td>
+      <td></td>
       <td><a><img width="100" src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp"/></a></td>
-      <td><img width="200" src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></td>
+      <td></td>
       <td><a>Exam rank 03</a></td>
-      <td><img width="200" src="https://badge42.vercel.app/api/v2/clgt9itor006908l8lh9nnf5g/project/3110391" alt="ealgar-c's 42 push_swap Score" /></td>
+      <td></td>
     </tr>
   </tbody>
   <tbody>
