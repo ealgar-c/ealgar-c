@@ -7,7 +7,7 @@ Currently, I´m a student of <a href="https://www.42malaga.com/"> 42 Málaga</a>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css,bash&perline=3" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css,bash" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ Currently, I´m a student of <a href="https://www.42malaga.com/"> 42 Málaga</a>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,docker,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,docker,mysql" />
   </a>
 </p>
 
